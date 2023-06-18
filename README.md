@@ -1,11 +1,11 @@
-About r-ukbtools
-================
+About r-ukbtools-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ukbtools-feedstock/blob/main/LICENSE.txt)
 
 Home: https://kenhanscombe.github.io/ukbtools/
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ukbtools-feedstock/blob/main/LICENSE.txt)
 
 Summary: A set of tools to create a UK Biobank <http://www.ukbiobank.ac.uk/> dataset from a UKB fileset (.tab, .r, .html), visualize primary demographic data for a sample subset, query ICD diagnoses, retrieve genetic metadata, read and write standard file formats for genetic analyses.
 
